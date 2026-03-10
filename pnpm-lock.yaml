@@ -423,8 +423,8 @@ importers:
         specifier: ^1.16.12
         version: 1.20.1(@babel/core@7.29.0)(@glint/template@1.7.4)
       '@embroider/router':
-        specifier: ^2.1.8
-        version: 2.1.8(@babel/core@7.29.0)(@embroider/core@3.5.5(@glint/template@1.7.4))(@glint/template@1.7.4)
+        specifier: ^3.0.6
+        version: 3.0.6(@babel/core@7.29.0)(@embroider/core@3.5.5(@glint/template@1.7.4))(@glint/template@1.7.4)
       '@embroider/webpack':
         specifier: ^4.1.0
         version: 4.1.0(@embroider/core@3.5.5(@glint/template@1.7.4))(webpack@5.99.9(@swc/core@1.15.18)(esbuild@0.25.12))
@@ -1875,10 +1875,10 @@ packages:
     resolution: {integrity: sha512-WFsw8nQpHZiWGEDYpa/A79KEFfTisqteXbY+jg9eZiww1r1G+LZvsmdszDp86TkotUSCqrMbK/ewn0jR1CJmqg==}
     engines: {node: 12.* || 14.* || >= 16}
 
-  '@embroider/router@2.1.8':
-    resolution: {integrity: sha512-Dvp8YdqAWT6T0yzBZfUe6SyaVNH7xoXBlrxF1LbqoF/Q2buNzDy9oAQ5tTnbX1x+5KOrM0ryOjfeF0GoqkfobA==}
+  '@embroider/router@3.0.6':
+    resolution: {integrity: sha512-D+Us/ZwE1q1W7VHuq3tNDTavv9/uewh8IUFkMocve3X3rPYRiVzaw5G5wooX+409ng1W1ApLl7bxOwZHhYU9uQ==}
     peerDependencies:
-      '@embroider/core': ^2.0.0||^3.0.0
+      '@embroider/core': ^2.0.0||^3.0.0||^4.0.0-alpha.0
     peerDependenciesMeta:
       '@embroider/core':
         optional: true
@@ -10857,7 +10857,7 @@ snapshots:
       mem: 8.1.1
       resolve.exports: 2.0.3
 
-  '@embroider/router@2.1.8(@babel/core@7.29.0)(@embroider/core@3.5.5(@glint/template@1.7.4))(@glint/template@1.7.4)':
+  '@embroider/router@3.0.6(@babel/core@7.29.0)(@embroider/core@3.5.5(@glint/template@1.7.4))(@glint/template@1.7.4)':
     dependencies:
       '@ember/test-waiters': 4.1.1(@babel/core@7.29.0)(@glint/template@1.7.4)
       '@embroider/addon-shim': 1.10.2
