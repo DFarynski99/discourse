@@ -420,11 +420,11 @@ importers:
         specifier: ^3.5.5
         version: 3.5.5(@glint/template@1.7.4)
       '@embroider/macros':
-        specifier: ^1.16.12
-        version: 1.20.1(@babel/core@7.29.0)(@glint/template@1.7.4)
+        specifier: ^1.20.2
+        version: 1.20.2(@babel/core@7.29.0)(@glint/template@1.7.4)
       '@embroider/router':
-        specifier: ^2.1.8
-        version: 2.1.8(@babel/core@7.29.0)(@embroider/core@3.5.5(@glint/template@1.7.4))(@glint/template@1.7.4)
+        specifier: ^3.0.6
+        version: 3.0.6(@babel/core@7.29.0)(@embroider/core@3.5.5(@glint/template@1.7.4))(@glint/template@1.7.4)
       '@embroider/webpack':
         specifier: ^4.1.0
         version: 4.1.0(@embroider/core@3.5.5(@glint/template@1.7.4))(webpack@5.99.9(@swc/core@1.15.18)(esbuild@0.25.12))
@@ -773,259 +773,259 @@ importers:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/chat:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/checklist:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-adplugin:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-affiliate:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-ai:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-apple-auth:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-assign:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-cakeday:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-calendar:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-chat-integration:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-data-explorer:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-details:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-gamification:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-github:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-graphviz:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-hcaptcha:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-lazy-videos:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-local-dates:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-login-with-amazon:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-lti:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-math:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-microsoft-auth:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-narrative-bot:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-oauth2-basic:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-openid-connect:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-patreon:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-policy:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-post-voting:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-presence:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-reactions:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-rss-polling:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-solved:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-subscriptions:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-templates:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-topic-voting:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-user-notes:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/discourse-zendesk-plugin:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/footnote:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/poll:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/spoiler-alert:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   plugins/styleguide:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
   themes/horizon:
     dependencies:
       discourse:
         specifier: npm:@discourse/types@*
-        version: '@discourse/types@2026.3.0-887c5be4'
+        version: '@discourse/types@2026.4.0-fdd750d9'
 
 packages:
 
@@ -1761,8 +1761,8 @@ packages:
   '@discourse/moment-timezone-names-translations@1.0.0':
     resolution: {integrity: sha512-4xr1QWQ0nzmFa2ZXQgWZA+dtE/BU2ePA+qkJWPFzNpq4ZnQi8MmMMAS2285t3rc2ySMBQqYaAArmcSUiufUgRA==}
 
-  '@discourse/types@2026.3.0-887c5be4':
-    resolution: {integrity: sha512-NNp2fX68OWBVXr/7DuzK9a30coMSTNfor7VF/yANPjccmayehI9xAA85Md5SYmXyD5QNtO7WgYQG0yTkZpzBhQ==}
+  '@discourse/types@2026.4.0-fdd750d9':
+    resolution: {integrity: sha512-73Fr5RIzLK17qUdZrb2MjpYJVEnvgkh3Gm2hp6+d4krT5iI9u9AlAJaXt3ISQNBSWe1+fEY8mzizxLTQare/lg==}
     engines: {node: '>= 20', npm: please-use-pnpm, pnpm: ^10, yarn: please-use-pnpm}
 
   '@ember-compat/tracked-built-ins@0.9.1':
@@ -1871,14 +1871,23 @@ packages:
       '@glint/template':
         optional: true
 
+  '@embroider/macros@1.20.2':
+    resolution: {integrity: sha512-WJWSkG9vIL0s93vKwtNFqqAOCOflNkWNpqsC7VAqXeeTKNpCc7wtdOhPkNGJpb52CEt7vlQ5R/zMyCfGAB7MEA==}
+    engines: {node: 12.* || 14.* || >= 16}
+    peerDependencies:
+      '@glint/template': ^1.0.0
+    peerDependenciesMeta:
+      '@glint/template':
+        optional: true
+
   '@embroider/reverse-exports@0.2.0':
     resolution: {integrity: sha512-WFsw8nQpHZiWGEDYpa/A79KEFfTisqteXbY+jg9eZiww1r1G+LZvsmdszDp86TkotUSCqrMbK/ewn0jR1CJmqg==}
     engines: {node: 12.* || 14.* || >= 16}
 
-  '@embroider/router@2.1.8':
-    resolution: {integrity: sha512-Dvp8YdqAWT6T0yzBZfUe6SyaVNH7xoXBlrxF1LbqoF/Q2buNzDy9oAQ5tTnbX1x+5KOrM0ryOjfeF0GoqkfobA==}
+  '@embroider/router@3.0.6':
+    resolution: {integrity: sha512-D+Us/ZwE1q1W7VHuq3tNDTavv9/uewh8IUFkMocve3X3rPYRiVzaw5G5wooX+409ng1W1ApLl7bxOwZHhYU9uQ==}
     peerDependencies:
-      '@embroider/core': ^2.0.0||^3.0.0
+      '@embroider/core': ^2.0.0||^3.0.0||^4.0.0-alpha.0
     peerDependenciesMeta:
       '@embroider/core':
         optional: true
@@ -3346,6 +3355,7 @@ packages:
   '@xmldom/xmldom@0.8.11':
     resolution: {integrity: sha512-cQzWCtO6C8TQiYl1ruKNn2U6Ao4o4WBBcbL61yJl84x+j5sOWWFU9X7DpND8XZG3daDppSsigMdfAIl2upQBRw==}
     engines: {node: '>=10.0.0'}
+    deprecated: this version has critical issues, please update to the latest version
 
   '@xtuc/ieee754@1.2.0':
     resolution: {integrity: sha512-DX8nKgqcGwsc0eJSqYt5lwP4DH5FlHnmuWWBRy7X0NcaGR0ZtuyeESgMwTYVEtxmsNGY+qit4QYT/MIYTOTPeA==}
@@ -3844,14 +3854,14 @@ packages:
   body@5.1.0:
     resolution: {integrity: sha512-chUsBxGRtuElD6fmw1gHLpvnKdVLK302peeFa9ZqAEk8TyzZ3fygLyUEDDPTJvL9+Bor0dIwn6ePOsRM2y0zQQ==}
 
-  brace-expansion@1.1.12:
-    resolution: {integrity: sha512-9T9UjW3r0UW5c1Q7GTwllptXwhvYmEzFhzMfZ9H7FQWt+uZePjZPjBP/W1ZEyZ1twGWom5/56TF4lPcqjnDHcg==}
+  brace-expansion@1.1.13:
+    resolution: {integrity: sha512-9ZLprWS6EENmhEOpjCYW2c8VkmOvckIJZfkr7rBW6dObmfgJ/L1GpSYW5Hpo9lDz4D1+n0Ckz8rU7FwHDQiG/w==}
 
-  brace-expansion@2.0.2:
-    resolution: {integrity: sha512-Jt0vHyM+jmUBqojB7E1NIYadt0vI0Qxjxd2TErW94wDz+E2LAm5vKMXXwg6ZZBTHPuUlDgQHKXvjGBdfcF1ZDQ==}
+  brace-expansion@2.0.3:
+    resolution: {integrity: sha512-MCV/fYJEbqx68aE58kv2cA/kiky1G8vux3OR6/jbS+jIMe/6fJWa0DTzJU7dqijOWYwHi1t29FlfYI9uytqlpA==}
 
-  brace-expansion@5.0.4:
-    resolution: {integrity: sha512-h+DEnpVvxmfVefa4jFbCf5HdH5YMDXRsmKflpf1pILZWRFlTbJpxeU55nJl4Smt5HQaGzg1o6RHFPJaOqnmBDg==}
+  brace-expansion@5.0.5:
+    resolution: {integrity: sha512-VZznLgtwhn+Mact9tfiwx64fA9erHH/MCXEUfB/0bX/6Fz6ny5EGTXYltMocqg4xFAQZtnO3DHWWXi8RiuN7cQ==}
     engines: {node: 18 || 20 || >=22}
 
   braces@2.3.2:
@@ -6815,6 +6825,9 @@ packages:
   lodash.truncate@4.4.2:
     resolution: {integrity: sha512-jttmRe7bRse52OsWIMDLaXxWqRAmtIUccAQ3garviCqJjafXOfNMO0yMfNpdD6zbGaTU0P5Nz7e7gAT6cKmJRw==}
 
+  lodash@4.17.21:
+    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
+
   lodash@4.17.23:
     resolution: {integrity: sha512-LgVTMpQtIopCi79SJeDiP0TfWi5CNEc/L/aRdTh3yIvmZXTnheWpKjSZhnvMl8iXbC1tFg9gdHHDMLoV7CnG+w==}
 
@@ -7048,6 +7061,10 @@ packages:
 
   minimatch@10.2.4:
     resolution: {integrity: sha512-oRjTw/97aTBN0RHbYCdtF1MQfvusSIBQM0IZEgzl6426+8jSC0nF1a/GmnVLpfB9yyr6g6FTqWqiZVbxrtaCIg==}
+    engines: {node: 18 || 20 || >=22}
+
+  minimatch@10.2.5:
+    resolution: {integrity: sha512-MULkVLfKGYDFYejP07QOurDLLQpcjk7Fw+7jXS2R2czRQzR56yHRveU5NDJEOviH+hETZKSkIk5c+T23GjFUMg==}
     engines: {node: 18 || 20 || >=22}
 
   minimatch@3.1.5:
@@ -10587,7 +10604,7 @@ snapshots:
 
   '@discourse/moment-timezone-names-translations@1.0.0': {}
 
-  '@discourse/types@2026.3.0-887c5be4': {}
+  '@discourse/types@2026.4.0-fdd750d9': {}
 
   '@ember-compat/tracked-built-ins@0.9.1(patch_hash=febdd1f1d24565f6f3be7747fd89cbc86a4476e2836e383610c6bc430436a842)':
     dependencies:
@@ -10625,7 +10642,7 @@ snapshots:
       chalk: 4.1.2
       diff: 7.0.0
       isbinaryfile: 5.0.7
-      lodash: 4.17.23
+      lodash: 4.17.21
       promise.hash.helper: 1.0.8
       quick-temp: 0.1.9
       silent-error: 1.1.1
@@ -10639,7 +10656,7 @@ snapshots:
       ember-cli-normalize-entity-name: 1.0.0
       ember-cli-string-utils: 1.1.0
       fs-extra: 11.3.4
-      lodash: 4.17.23
+      lodash: 4.17.21
       silent-error: 1.1.1
       sort-package-json: 2.15.1
       walk-sync: 3.0.0
@@ -10659,7 +10676,7 @@ snapshots:
       chalk: 4.1.2
       ejs: 3.1.10
       ember-cli-string-utils: 1.1.0
-      lodash: 4.17.23
+      lodash: 4.17.21
       sort-package-json: 3.6.1
       walk-sync: 3.0.0
 
@@ -10678,7 +10695,7 @@ snapshots:
   '@ember/render-modifiers@3.0.0(@glint/template@1.7.4)(ember-source@6.10.1(patch_hash=6736d1b31cc47a0225a1720f11791dd11fb7908489da041cfa1b195b8240e5e9)(@glimmer/component@2.0.0)(rsvp@4.8.5))':
     dependencies:
       '@babel/core': 7.29.0(supports-color@8.1.1)
-      '@embroider/macros': 1.20.1(@babel/core@7.29.0)(@glint/template@1.7.4)
+      '@embroider/macros': 1.20.2(@babel/core@7.29.0)(@glint/template@1.7.4)
       ember-cli-babel: 8.3.1(@babel/core@7.29.0)
       ember-modifier-manager-polyfill: 1.2.0(@babel/core@7.29.0)
       ember-source: 6.10.1(patch_hash=6736d1b31cc47a0225a1720f11791dd11fb7908489da041cfa1b195b8240e5e9)(@glimmer/component@2.0.0)(rsvp@4.8.5)
@@ -10693,7 +10710,7 @@ snapshots:
     dependencies:
       '@ember/test-waiters': 4.1.1(@babel/core@7.29.0)(@glint/template@1.7.4)
       '@embroider/addon-shim': 1.10.2
-      '@embroider/macros': 1.20.1(@babel/core@7.29.0)(@glint/template@1.7.4)
+      '@embroider/macros': 1.20.2(@babel/core@7.29.0)(@glint/template@1.7.4)
       '@simple-dom/interface': 1.4.0
       decorator-transforms: 2.3.1(@babel/core@7.29.0)
       dom-element-descriptors: 0.5.1
@@ -10705,7 +10722,7 @@ snapshots:
   '@ember/test-waiters@4.1.1(@babel/core@7.29.0)(@glint/template@1.7.4)':
     dependencies:
       '@embroider/addon-shim': 1.10.2
-      '@embroider/macros': 1.20.1(@babel/core@7.29.0)(@glint/template@1.7.4)
+      '@embroider/macros': 1.20.2(@babel/core@7.29.0)(@glint/template@1.7.4)
     transitivePeerDependencies:
       - '@babel/core'
       - '@glint/template'
@@ -10828,7 +10845,7 @@ snapshots:
       babel-import-util: 2.1.1
       ember-cli-babel: 7.26.11
       find-up: 5.0.0
-      lodash: 4.17.23
+      lodash: 4.17.21
       resolve: 1.22.11
       semver: 7.7.4
     optionalDependencies:
@@ -10843,7 +10860,23 @@ snapshots:
       babel-import-util: 3.0.1
       ember-cli-babel: 8.3.1(@babel/core@7.29.0)
       find-up: 5.0.0
-      lodash: 4.17.23
+      lodash: 4.17.21
+      resolve: 1.22.11
+      semver: 7.7.4
+    optionalDependencies:
+      '@glint/template': 1.7.4
+    transitivePeerDependencies:
+      - '@babel/core'
+      - supports-color
+
+  '@embroider/macros@1.20.2(@babel/core@7.29.0)(@glint/template@1.7.4)':
+    dependencies:
+      '@embroider/shared-internals': 3.0.2
+      assert-never: 1.4.0
+      babel-import-util: 3.0.1
+      ember-cli-babel: 8.3.1(@babel/core@7.29.0)
+      find-up: 5.0.0
+      lodash: 4.17.21
       resolve: 1.22.11
       semver: 7.7.4
     optionalDependencies:
@@ -10857,7 +10890,7 @@ snapshots:
       mem: 8.1.1
       resolve.exports: 2.0.3
 
-  '@embroider/router@2.1.8(@babel/core@7.29.0)(@embroider/core@3.5.5(@glint/template@1.7.4))(@glint/template@1.7.4)':
+  '@embroider/router@3.0.6(@babel/core@7.29.0)(@embroider/core@3.5.5(@glint/template@1.7.4))(@glint/template@1.7.4)':
     dependencies:
       '@ember/test-waiters': 4.1.1(@babel/core@7.29.0)(@glint/template@1.7.4)
       '@embroider/addon-shim': 1.10.2
@@ -10876,7 +10909,7 @@ snapshots:
       fs-extra: 9.1.0
       is-subdir: 1.2.0
       js-string-escape: 1.0.1
-      lodash: 4.17.23
+      lodash: 4.17.21
       minimatch: 3.1.5
       pkg-entry-points: 1.1.1
       resolve-package-path: 4.0.3
@@ -10893,7 +10926,7 @@ snapshots:
       fs-extra: 9.1.0
       is-subdir: 1.2.0
       js-string-escape: 1.0.1
-      lodash: 4.17.23
+      lodash: 4.17.21
       minimatch: 3.1.5
       pkg-entry-points: 1.1.1
       resolve-package-path: 4.0.3
@@ -10910,7 +10943,7 @@ snapshots:
       fs-extra: 9.1.0
       is-subdir: 1.2.0
       js-string-escape: 1.0.1
-      lodash: 4.17.23
+      lodash: 4.17.21
       minimatch: 3.1.5
       pkg-entry-points: 1.1.1
       resolve-package-path: 4.0.3
@@ -11571,7 +11604,7 @@ snapshots:
 
   '@jsdoc/salty@0.2.9':
     dependencies:
-      lodash: 4.17.23
+      lodash: 4.17.21
 
   '@json-editor/json-editor@2.16.0':
     dependencies:
@@ -12675,7 +12708,7 @@ snapshots:
 
   async@2.6.4:
     dependencies:
-      lodash: 4.17.23
+      lodash: 4.17.21
 
   async@3.2.6: {}
 
@@ -12961,16 +12994,16 @@ snapshots:
       raw-body: 1.1.7
       safe-json-parse: 1.0.1
 
-  brace-expansion@1.1.12:
+  brace-expansion@1.1.13:
     dependencies:
       balanced-match: 1.0.2
       concat-map: 0.0.1
 
-  brace-expansion@2.0.2:
+  brace-expansion@2.0.3:
     dependencies:
       balanced-match: 1.0.2
 
-  brace-expansion@5.0.4:
+  brace-expansion@5.0.5:
     dependencies:
       balanced-match: 4.0.4
 
@@ -13502,7 +13535,7 @@ snapshots:
 
   catharsis@0.9.0:
     dependencies:
-      lodash: 4.17.23
+      lodash: 4.17.21
 
   chai@6.2.2: {}
 
@@ -14549,7 +14582,7 @@ snapshots:
     dependencies:
       '@ember/test-helpers': 5.4.1(@babel/core@7.29.0)(@glint/template@1.7.4)
       '@embroider/addon-shim': 1.10.2
-      '@embroider/macros': 1.20.1(@babel/core@7.29.0)(@glint/template@1.7.4)
+      '@embroider/macros': 1.20.2(@babel/core@7.29.0)(@glint/template@1.7.4)
       qunit: 2.25.0
       qunit-theme-ember: 1.0.0
     transitivePeerDependencies:
@@ -16211,7 +16244,7 @@ snapshots:
       cli-width: 2.2.1
       external-editor: 3.1.0
       figures: 2.0.0
-      lodash: 4.17.23
+      lodash: 4.17.21
       mute-stream: 0.0.7
       run-async: 2.4.1
       rxjs: 6.6.7
@@ -16870,6 +16903,8 @@ snapshots:
 
   lodash.truncate@4.4.2: {}
 
+  lodash@4.17.21: {}
+
   lodash@4.17.23: {}
 
   log-symbols@2.2.0:
@@ -17116,23 +17151,27 @@ snapshots:
 
   minimatch@10.2.4:
     dependencies:
-      brace-expansion: 5.0.4
+      brace-expansion: 5.0.5
+
+  minimatch@10.2.5:
+    dependencies:
+      brace-expansion: 5.0.5
 
   minimatch@3.1.5:
     dependencies:
-      brace-expansion: 1.1.12
+      brace-expansion: 1.1.13
 
   minimatch@5.1.9:
     dependencies:
-      brace-expansion: 2.0.2
+      brace-expansion: 2.0.3
 
   minimatch@8.0.7:
     dependencies:
-      brace-expansion: 2.0.2
+      brace-expansion: 2.0.3
 
   minimatch@9.0.9:
     dependencies:
-      brace-expansion: 2.0.2
+      brace-expansion: 2.0.3
 
   minimist@1.2.8: {}
 
@@ -18248,7 +18287,7 @@ snapshots:
 
   requizzle@0.2.4:
     dependencies:
-      lodash: 4.17.23
+      lodash: 4.17.21
 
   reselect@3.0.1: {}
 
@@ -19836,7 +19875,7 @@ snapshots:
       '@types/minimatch': 5.1.2
       ensure-posix-path: 1.1.1
       matcher-collection: 2.0.1
-      minimatch: 10.2.4
+      minimatch: 10.2.5
 
   walk-up-path@3.0.1: {}
 
